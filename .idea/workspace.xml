@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a17ce874-b9ca-401e-b3b1-ad40b9af78d3" name="Default Changelist" comment="" />
+    <list default="true" id="a17ce874-b9ca-401e-b3b1-ad40b9af78d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_html/02_heading-elements/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/001_html/02_heading-elements/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$nds on Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$nds on Exercise.docx" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,39 +19,41 @@
     <session id="1988496322">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="2" />
+          <entry key="html" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="206" />
+          <entry key="html" value="354" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="206" />
+          <entry key="HTML" value="354" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001_html/02_heading-elements/index.html">
+        <entry file="file://$PROJECT_DIR$/001_html/04_ordered-list-elements/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="306">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -69,6 +75,8 @@
       <list>
         <option value="$PROJECT_DIR$/001_html/01_paragraph-elements/index.html" />
         <option value="$PROJECT_DIR$/001_html/02_heading-elements/index.html" />
+        <option value="$PROJECT_DIR$/001_html/03_unordered-list-elements/index.html" />
+        <option value="$PROJECT_DIR$/001_html/04_ordered-list-elements/index.html" />
       </list>
     </option>
   </component>
@@ -101,6 +109,12 @@
               <item name="Website Creation Exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Website Creation Exercise" type="462c0819:PsiDirectoryNode" />
               <item name="001_html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Website Creation Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Website Creation Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="001_html" type="462c0819:PsiDirectoryNode" />
+              <item name="04_ordered-list-elements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,12 +160,9 @@
     <frame x="10" y="20" width="1260" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -159,6 +170,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -180,8 +194,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/001_html/02_heading-elements/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="425">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001_html/03_unordered-list-elements/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001_html/04_ordered-list-elements/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
