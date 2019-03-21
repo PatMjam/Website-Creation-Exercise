@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a17ce874-b9ca-401e-b3b1-ad40b9af78d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001_html/06_tag-attributes/02_image-element/French-Bulldog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001_html/06_tag-attributes/02_image-element/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001_html/06_tag-attributes/03_anchor-element/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001_html/06_tag-attributes/04_paragraph-element/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/001_html/06_tag-attributes/04_paragraph-element/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001_html/02_heading-elements/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/001_html/02_heading-elements/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_emmet/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$nds on Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_html/06_tag-attributes/01_link-elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/001_html/06_tag-attributes/01_link-element/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_html/06_tag-attributes/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/001_html/06_tag-attributes/01_link-element/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_html/07_image-elements/index.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,40 +25,54 @@
     <session id="1988496322">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="113" />
+          <entry key="css" value="13" />
+          <entry key="html" value="284" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="113" />
+          <entry key="CSS" value="13" />
+          <entry key="HTML" value="284" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="3" />
+          <entry key="css" value="10" />
+          <entry key="html" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="3" />
+          <entry key="CSS" value="10" />
+          <entry key="HTML" value="15" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001_html/04_ordered-list-elements/index.html">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/001_html/06_tag-attributes/01_link-element/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="153">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/001_html/06_tag-attributes/01_link-element/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -80,10 +98,15 @@
         <option value="$PROJECT_DIR$/05_emmet/one-example.html" />
         <option value="$PROJECT_DIR$/05_emmet/index.html" />
         <option value="$PROJECT_DIR$/001_html/05_emmet/index.html" />
-        <option value="$PROJECT_DIR$/001_html/06_tag-attributes/main.css" />
         <option value="$PROJECT_DIR$/001_html/06_tag-attributes/01_link-elements.html" />
         <option value="$PROJECT_DIR$/001_html/07_image-elements/index.html" />
         <option value="$PROJECT_DIR$/001_html/02_heading-elements/index.html" />
+        <option value="$PROJECT_DIR$/001_html/06_tag-attributes/index.html" />
+        <option value="$PROJECT_DIR$/001_html/06_tag-attributes/main.css" />
+        <option value="$PROJECT_DIR$/001_html/06_tag-attributes/03_anchor-element/index.html" />
+        <option value="$PROJECT_DIR$/001_html/06_tag-attributes/02_image-element/index.html" />
+        <option value="$PROJECT_DIR$/001_html/06_tag-attributes/04_paragraph-element/index.html" />
+        <option value="$PROJECT_DIR$/001_html/06_tag-attributes/04_paragraph-element/main.css" />
       </list>
     </option>
   </component>
@@ -105,6 +128,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,13 +145,12 @@
               <item name="Website Creation Exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Website Creation Exercise" type="462c0819:PsiDirectoryNode" />
               <item name="001_html" type="462c0819:PsiDirectoryNode" />
-              <item name="04_ordered-list-elements" type="462c0819:PsiDirectoryNode" />
+              <item name="06_tag-attributes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,6 +160,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Patrick\Website Creation Exercise\001_html\06_tag-attributes\02_image-element" />
+      <recent name="C:\Users\Patrick\Website Creation Exercise\001_html\06_tag-attributes\01_link-element" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Patrick\Website Creation Exercise\001_html" />
     </key>
@@ -165,7 +192,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24244833" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -207,28 +233,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/001_html/06_tag-attributes/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/001_html/07_image-elements/lion.jpg" />
-    <entry file="file://$PROJECT_DIR$/001_html/06_tag-attributes/01_link-elements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/001_html/07_image-elements/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="219" selection-start-line="8" selection-start-column="219" selection-end-line="8" selection-end-column="219" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/001_html/02_heading-elements/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -247,6 +252,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001_html/06_tag-attributes/01_link-elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001_html/07_image-elements/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="219" selection-start-line="8" selection-start-column="219" selection-end-line="8" selection-end-column="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001_html/06_tag-attributes/03_anchor-element/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001_html/06_tag-attributes/02_image-element/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001_html/06_tag-attributes/04_paragraph-element/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001_html/06_tag-attributes/04_paragraph-element/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001_html/06_tag-attributes/01_link-element/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/001_html/06_tag-attributes/01_link-element/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
